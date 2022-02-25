@@ -43,7 +43,7 @@ I am a Software Engineer.
 - 🌱  I’m currently working at Sharing Excess
 - 💬 Ask me about fighting food insecurity!
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I like to modify cars in my free time!
+- ⚡ Fun fact: I like to modify cars in my free time
 
 ---
 
