@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-   <h1>
+<!--    <h1>
     Hey, I'm @lukeshinnn
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1> -->
 <!--   Make a octocat at https://myoctocat.dev and insert the link and image to the anchor tag and image tag below -->
-<a href="https://myoctocat.dev/@lukeshinnn/octocat">
+<!-- <a href="https://myoctocat.dev/@lukeshinnn/octocat">
   <img align="center" src="https://user-images.githubusercontent.com/63413560/155808158-7ae8d3e7-eb30-4924-b389-1c3629ce8dc0.png" width=200 /> 
-</a>
+</a> -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/luke-shin-20a0181b0/">
+<!--     <a href="https://www.linkedin.com/in/luke-shin-20a0181b0/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
  <!--   <a href="[YOUR TWITTER ACCOUNT HERE]">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
     </a>
